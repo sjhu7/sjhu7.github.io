@@ -1,3 +1,7 @@
+This is the source code to Shaojie Hu's academic website: https://sjhu.github.io.
+It was forked from the repository [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) created by [Michael Rose](https://github.com/mmistakes).
+
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
