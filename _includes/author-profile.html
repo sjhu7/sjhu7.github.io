@@ -11,6 +11,7 @@
     </div>
   {% endif %}
 
+<!-- original version
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
@@ -21,6 +22,23 @@
       </div>
     {% endif %}
   </div>
+-->
+
+<div class="author__content">
+  <h3 class="author__name p-name" itemprop="name">
+    <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
+  </h3>
+  <p class="author__bio" style="margin-top: 1em">Phd Student</p>
+  <p class="author__bio">College of Civil Engineering</p>
+  <p class="author__bio" style="margin-bottom: 1em">Hunan University</p>
+  <p class="author__emailadress" style="margin-bottom: 0.5em">
+    <a href="mailto:{{ author.email }}">
+      <i class="fas fa-fw fa-envelope-square"></i>
+      {{ author.email }}
+    </a>
+  </p>
+</div>
+
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
@@ -47,6 +65,7 @@
         </li>
       {% endif %}
 
+      <!--
       {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}" rel="me" class="u-email">
@@ -55,6 +74,7 @@
           </a>
         </li>
       {% endif %}
+      -->
 
       {% if author.keybase %}
         <li>
