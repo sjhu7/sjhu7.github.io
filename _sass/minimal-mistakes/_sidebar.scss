@@ -181,8 +181,27 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    //margin-top: 10px;
+    //margin-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+}
+
+.author__emailadress {
+  margin: 0;
+
+  @include breakpoint($large) {
+    //margin-top: 10px;
+    //margin-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
