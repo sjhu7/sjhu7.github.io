@@ -107,12 +107,12 @@ author:
   name             : "Shaojie Hu"
   avatar           : "/images/wallhaven.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD candidate school of xxx yyy University"
-  location         : "abc University"
-  #email            :
+  location         : "Changsha, China"
+  email            : "sjhu@hnu.edu.cn"
   links:
-    - label: "sjhu@hnu.edu.cn"
+    - label: "sjhu@hnu.edu.cn" # can also set email here, but need to annotate code "email:..." above
       icon: "fas fa-fw fa-envelope-square"
-      url: "sjhu@hnu.edu.cn"
+      # url: "sjhu@hnu.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
