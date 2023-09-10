@@ -24,6 +24,6 @@ Locate my articles on [Researchgate](https://www.researchgate.net/profile/Shaoji
 5. **Hu, S.**, & Zhang, C\*. (2023). [A Sorption Isotherm Model for Soil Incorporating External and Internal Surface Adsorption, and Capillarity](https://cdnsciencepub.com/doi/10.1139/cgj-2022-0386). *Canadian Geotechnical Journal*, cgj-2022-0386.
 6. Zhang, C., **Hu, S.**, Qiu, Z., & Lu, N\*. (2022). [A Poroelasticity Theory for Soil Incorporating Adsorption and Capillarity](https://www.icevirtuallibrary.com/doi/10.1680/jgeot.22.00097). *Géotechnique*, 1–18.
 7. Zhang, C., Gou, L., **Hu, S.\***, & Lu, N. (2022). [A Thermodynamic Formulation of Water Potential in Soil](https://onlinelibrary.wiley.com/doi/10.1029/2022WR032369). *Water Resources Research*, 58(9).
-8. Zhang, C., **Hu, S.**, & Lu, N.\* (2022). [Unified Elastic Modulus Characteristic Curve Equation for Variably Saturated Soils](https://ascelibrary.org/doi/10.1061/%28ASCE%29GT.1943-5606.0002718). *Journal of Geotechnical and Geoenvironmental Engineering*, 148(1), 04021171.
+8. Zhang, C.\*, **Hu, S.**, & Lu, N. (2022). [Unified Elastic Modulus Characteristic Curve Equation for Variably Saturated Soils](https://ascelibrary.org/doi/10.1061/%28ASCE%29GT.1943-5606.0002718). *Journal of Geotechnical and Geoenvironmental Engineering*, 148(1), 04021171.
 
 
