@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 title: "Homepage"
 excerpt: "Homepage"
 author_profile: true
