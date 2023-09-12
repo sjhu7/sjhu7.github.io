@@ -14,9 +14,19 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+
+            {% if link.title == "Curriculum Vitae" %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %} target="_blank">{{ link.title }}</a>
+              </li>
+
+            {% else %}
+
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+            {% endif %}
+        
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
