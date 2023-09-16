@@ -57,7 +57,7 @@
   p,
   li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-5;   // font size of author content in sidebar
     line-height: 1.5;
   }
 
@@ -174,7 +174,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;  // font size of name in sidebar
 }
 
 .author__bio {
