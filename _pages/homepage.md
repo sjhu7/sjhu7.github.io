@@ -11,7 +11,22 @@ classes: wide
 ---
 
 
-Notable Features
+I am a Ph.D. stutdent at College of Civil Enginnering in Hunan University. 
+
+
+
+I am a dedicated and passionate Ph.D. student pursuing research in [Your Field of Study] at [Your University]. With a deep-rooted curiosity for [Your Research Area], I am committed to advancing knowledge in this field through rigorous academic inquiry.
+
+
+
+My research interests encompass a wide range of topics within [Your Field of Study], including [List a few key research interests or areas you focus on]. Through my academic journey, I aim to contribute valuable insights and solutions to the complex challenges in these areas.
+
+
+
+I hold a [Your Previous Degree] from [Your Previous University], where I developed a strong foundation in [Relevant Subjects]. My academic background has equipped me with the analytical and critical thinking skills necessary for conducting innovative research.
+
+
+These projects reflect my commitment to pushing the boundaries of knowledge in [Your Research Area].
 
 Bundled as a "theme gem" for easier install/upgrading.
 Compatible with GitHub Pages.
@@ -24,27 +39,3 @@ Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https:/
 [Google Analytics](https://www.google.com/analytics/) support.
 UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
 
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
