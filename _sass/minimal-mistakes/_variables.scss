@@ -20,7 +20,20 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 */
 
-$sans-serif: "Lucida Grande", "Helvetica Neue", "Arial", "Roboto", "Segoe UI", sans-serif !default;
+// custom font style, source ttf files are placed in /files/fonts
+@font-face {
+   font-family: Lucida Grande Local;
+   font-weight: normal;
+   src: url(/files/fonts/LucidaGrande-01.ttf);
+}
+
+@font-face {
+   font-family: Lucida Grande Local;
+   font-weight: bold;
+   src: url(/files/fonts/LucidaGrande-Bold-02.ttf);
+}
+
+$sans-serif: "Lucida Grande", "Lucida Grande Local", "Helvetica Neue", "Arial", "Roboto", "Segoe UI", sans-serif !default;
 
 
 
