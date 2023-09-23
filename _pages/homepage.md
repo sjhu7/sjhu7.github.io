@@ -20,5 +20,6 @@ My research interests lie in understanding various fascinating phase equilibrium
 Please find my publication list [here](/publications/), or through [Researchgate](https://www.researchgate.net/profile/Shaojie-Hu-3), [ORCID](https://orcid.org/0000-0003-2730-930X), or Google Scholar. If you are interested in my research, discussions are welcome via [sjhu@hnu.edu.cn](mailto: sjhu@hnu.edu.cn).
 
 
-In UNSAT Lab, I belong to a group focusing on phase change research. I assist Prof. Zhang in managing this group, and work closely with three other members: Ningning Zhao, Lijun Li, and Xin Lin, who are the most incredible, talented, and beautiful partners ever.
+In UNSAT Lab, I belong to a four-member group focusing on phase change research. I assist Prof. Zhang in managing this group and work closely with the other three members: Ningning Zhao, Lijun Li, and Xin Lin, who are the most incredible, talented, and beautiful partners ever.
+
 
