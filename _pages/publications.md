@@ -15,7 +15,7 @@ Locate my articles on [Researchgate](https://www.researchgate.net/profile/Shaoji
 
 ## Journal Papers
 
-\*Corresponding; †Co-first author
+\*Corresponding author; †Co-first author
 
 1. Zhao, N.†, **Hu, S.†**, Zhang, C.\*, Li, F.\*, & Chen, R. (2023). [Physical Origins of Freezing and Melting Temperature Depressions of Water in Millimeter-sized Pores](https://doi.org/10.1016/j.colsurfa.2023.131851). *Colloids and Surfaces A: Physicochemical and Engineering Aspects*, 674, 131851.
 2. Gou, L., Zhang, C.\*, Lu, N., & **Hu, S.** (2023). [A Soil Hydraulic Conductivity Equation Incorporating Adsorption and Capillarity](https://ascelibrary.org/doi/10.1061/JGGEFK.GTENG-11388). *Journal of Geotechnical and Geoenvironmental Engineering*, 149(8), 04023056.
