@@ -135,8 +135,8 @@
   }
 
   img {
-    max-width: 180px;  // set avatar size
-    border-radius: 50%;  // set avatar shape
+    max-width: 190px;  // set avatar size
+    border-radius: 0%;  // set avatar shape
 
     @include breakpoint($large) {
       padding: 5px;
