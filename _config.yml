@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Shaojie Hu"
-  avatar           : "/images/wallhaven.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/wallhaven2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD candidate school of xxx yyy University"
   location         : "Changsha, China"
   email            : "sjhu@hnu.edu.cn"
