@@ -25,12 +25,14 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
    font-family: Lucida Grande Local;
    font-weight: normal;
    src: url(/files/fonts/LucidaGrande-01.ttf);
+   font-display: swap;
 }
 
 @font-face {
    font-family: Lucida Grande Local;
    font-weight: bold;
    src: url(/files/fonts/LucidaGrande-Bold-02.ttf);
+   font-display: swap;
 }
 
 $sans-serif: "Lucida Grande", "Lucida Grande Local", "Helvetica Neue", "Arial", "Roboto", "Segoe UI", sans-serif !default;
