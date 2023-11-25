@@ -10,7 +10,7 @@ classes: wide
 Locate my articles on [Google Scholar](author.googlescholar), [Researchgate](https://www.researchgate.net/profile/Shaojie-Hu-3), or [ORCID](https://orcid.org/0000-0003-2730-930X).
 -->
 
-Locate my articles on [Researchgate](https://www.researchgate.net/profile/Shaojie-Hu-3) or [ORCID](https://orcid.org/0000-0003-2730-930X).
+Locate my articles on [Google Scholar](https://scholar.google.com/citations?user=oIkHLJAAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Shaojie-Hu-3), or [ORCID](https://orcid.org/0000-0003-2730-930X).
 
 
 ## Journal Papers
