@@ -20,6 +20,6 @@ My passion lies in understanding various fascinating phase equilibrium and phase
 Please find my publication list [here](/publications/), or through [Google Scholar](https://scholar.google.com/citations?user=oIkHLJAAAAAJ&hl=en). If you are interested in my research, discussions are welcome via [sjhu@hnu.edu.cn](mailto: sjhu@hnu.edu.cn).
 
 
-In UNSAT Lab, I belong to a four-member group focusing on phase change research. I assist Prof. Zhang in managing this group and work closely with the other three members: Ningning Zhao, Lijun Li, and Xin Lin, who are the most incredible, talented, and beautiful partners ever.
+In UNSAT Lab, I belong to a six-member group focusing on phase change research. I assist Prof. Zhang in managing this group and work closely with the other five members, who are the most incredible, talented, and beautiful partners ever.
 
 
