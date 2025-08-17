@@ -10,7 +10,7 @@ redirect_from:
 classes: wide
 ---
 
-
+<div style="text-align: justify;">
 I am a Ph.D. student in the College of Civil Engineering at <a href="http://www-en.hnu.edu.cn/" target="_blank">Hunan University</a>, supervised by Prof. <a href="https://www.researchgate.net/profile/Chao-Zhang-43" target="_blank">Chao Zhang</a>. I joined Zhang’s <a href="https://chaozhanghnu.github.io/" target="_blank">UNSAT Lab</a> in 2019 as a 3rd-year undergraduate student, and completed my B.S. degree in 2020. I am fortunate to continue my research here, and to collaborate closely with Prof. <a href="https://cee.mines.edu/project/lu-ning/" target="_blank">Ning Lu</a> from Colorado School of Mines.
 
 
@@ -26,3 +26,4 @@ In UNSAT Lab, I belong to a group dedicated to phase change research. I also ass
 Since January 2025, I have been serving as the Social Media Editor of *Vadose Zone Journal*, responsible for creating posts for the journal’s X (Twitter) and LinkedIn platforms. If you have ideas for content or need related support, please feel free to contact me.
 
 You can also find me on <a href="https://www.linkedin.com/in/shaojie-hu-74bbb8341" target="_blank">LinkedIn</a>.
+</div>
