@@ -137,38 +137,36 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-2730-930X"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 
 
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+
+# # Site Footer
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url:
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       # url:
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
+#       # url:
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
+#       # url:
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       # url:
 
 
 # Reading Files
 include:
-  - .htaccess
+  # - .htaccess
   - _pages
 exclude:
   - "*.sublime-project"
