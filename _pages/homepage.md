@@ -25,4 +25,4 @@ In UNSAT Lab, I belong to a group dedicated to phase change research. I also ass
 
 Since January 2025, I have been serving as the Social Media Editor of *Vadose Zone Journal*, responsible for creating posts for the journal’s X (Twitter) and LinkedIn platforms. If you have ideas for content or need related support, please feel free to contact me.
 
-You can also find me on [LinkedIn](linkedin.com/in/shaojie-hu-74bbb8341).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/shaojie-hu-74bbb8341/).
