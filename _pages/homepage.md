@@ -22,7 +22,7 @@ My passion lies in various fascinating phase equilibrium and phase transition pr
 </p>
 
 <p>
-Please find my publication list [here](/publications/), or through <a href="https://scholar.google.com/citations?user=oIkHLJAAAAAJ&hl=en" target="_blank">Google Scholar</a>. If you are interested in my research, discussions are welcome via [sjhu@hnu.edu.cn](mailto: sjhu@hnu.edu.cn).
+Please find my publication list <a href="/publications/">here</a>, or through <a href="https://scholar.google.com/citations?user=oIkHLJAAAAAJ&hl=en" target="_blank">Google Scholar</a>. If you are interested in my research, discussions are welcome via <a href="mailto:sjhu@hnu.edu.cn">sjhu@hnu.edu.cn</a>.
 </p>
 
 <p>
