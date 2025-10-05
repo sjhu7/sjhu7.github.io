@@ -28,9 +28,9 @@ Current research mainly focus on:
 </p>
 
 <p>
-• vapor sorption and capillary condensation<br>
-• pore water freezing and melting<br>
-• pore salt deliquescence and efflorescence
+•  Vapor sorption and capillary condensation<br>
+•  Pore water freezing and melting<br>
+•  Pore salt deliquescence and efflorescence
 </p>
 
 <p>
