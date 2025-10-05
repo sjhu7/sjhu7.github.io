@@ -27,11 +27,11 @@ My passion lies in various fascinating phase equilibrium and phase transition pr
 Current research mainly focus on:
 </p>
 
-<ul>
-  <li>Vapor sorption and capillary condensation</li>
-  <li>Pore water freezing and melting</li>
-  <li>Pore salt deliquescence and efflorescence</li>
-</ul>
+<p>
+• vapor sorption and capillary condensation<br>
+• pore water freezing and melting<br>
+• pore salt deliquescence and efflorescence
+</p>
 
 <p>
 I seek to understand how these pore-scale processes shape Earth and engineering systems at the large scale.
