@@ -48,9 +48,9 @@ Please find my publication list <a href="/publications/">here</a>, or through <a
 In UNSAT Lab, I belong to a group dedicated to phase change research. I also assist Prof. Zhang in managing this group and enjoy close collaboration with the members, who are the most incredible, talented, and beautiful partners ever.
 </p>
 
-<p>
+<!-- <p>
 Since January 2025, I have been serving as the Social Media Editor of <em>Vadose Zone Journal</em>, responsible for creating posts for the journal’s X (Twitter) and LinkedIn platforms. If you have ideas for content or need related support, please feel free to contact me.
-</p>
+</p> -->
 
 <p>
 You can also find me on <a href="https://www.linkedin.com/in/shaojie-hu-74bbb8341" target="_blank">LinkedIn</a>.
