@@ -23,7 +23,7 @@ My passion lies in various fascinating phase equilibrium and phase transition pr
 
 
 <p>
-My passion lies in various fascinating phase equilibrium and phase transition processes in porous media, particularly in soils, and their implications for poromechanics. 
+My passion lies in various fascinating phase equilibrium and phase transition processes in porous media, particularly in soils, and their implications for poromechanics. I also seek to understand how these pore-scale processes shape Earth and engineering systems at the large scale.
 Current research mainly focus on:
 </p>
 
@@ -33,9 +33,6 @@ Current research mainly focus on:
 •  Pore salt deliquescence and efflorescence
 </p>
 
-<p>
-I seek to understand how these pore-scale processes shape Earth and engineering systems at the large scale.
-</p>
 
 
 
